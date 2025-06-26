@@ -14,7 +14,7 @@ A Python tool that analyzes URLs for potential phishing indicators to help keep 
 
 ```bash
 # Clone or download the script
-git clone https://github.com/nahro-j/urlintel.git
+git clone https://github.com/nahro-j/url_analyzer.git
 cd urlintel
 
 # Make executable (Linux/Termux)
